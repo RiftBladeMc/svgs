@@ -1,0 +1,19 @@
+<svg width="86" height="100" style="background-color:white" xmlns="http://www.w3.org/2000/svg">
+<path d="M 15 15
+	h 56
+	v 24
+	h -20
+	v 13
+	h -16
+	v 5
+	h 20
+	v 28
+	h -28
+	v -33
+	h -12
+	Z" fill="white" stroke-width="1" stroke="black"/>
+	<rect x="44" y="33" width="1" height="1" fill="red"/>
+	<!--<rect x="19" y="50.5" width="1" height="1" fill="red"/>
+	<rect x="49.5" y="17.5" width="1" height="1" fill="blue"/>-->
+	<rect x="41" y="71" width="1" height="1" fill="blue"/>
+</svg>
